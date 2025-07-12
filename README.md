@@ -45,6 +45,15 @@ Perfect for designers, developers, and content creators who need powerful image 
 ### **AppReviews** - [https://github.com/corgier/appReviews](https://github.com/corgier/appReviews)
 A comprehensive Python tool for analyzing Google Play Store app reviews. Features automated review collection, sentiment analysis, topic modeling using BERTopic, and detailed demographic insights. Perfect for developers and product managers looking to understand user feedback and improve app performance.
 
+**Key Features:**
+- 🔍 **Automatic Negative Review Analysis** - Identifies and categorizes critical feedback factors
+- 📊 **User Information Statistics** - Automatically collects and analyzes user demographics and behavior patterns
+- 📈 **Interactive Charts & Visualizations** - Generates comprehensive charts for easy data interpretation
+- 🎯 **App Optimization Insights** - Provides actionable recommendations for app improvement
+- 🤖 **AI-Powered Analysis Coming Soon** - Advanced AI analysis of review causes and patterns
+
+Streamline your app optimization process with data-driven insights and automated analysis workflows.
+
 ## 🌐 Connect With Me
 
 - **Email**: [qiaozhikk@gmail.com](mailto:qiaozhikk@gmail.com)
