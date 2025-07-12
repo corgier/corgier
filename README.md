@@ -57,6 +57,7 @@ Streamline your app optimization process with data-driven insights and automated
 ## 🌐 Connect With Me
 
 - **Email**: [qiaozhikk@gmail.com](mailto:qiaozhikk@gmail.com)
+- **Twitter/X**: [@NLFSWL](https://x.com/NLFSWL)
 - **Personal Bio**: [https://bio.site/qiaozhik](https://bio.site/qiaozhik)
 - **Creem.io Profile**: [https://www.creem.io/bip/qiaozhikk](https://www.creem.io/bip/qiaozhikk)
 
