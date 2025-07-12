@@ -29,7 +29,18 @@ I'm a passionate full-stack developer with expertise across multiple programming
 ## 🎯 Current Projects
 
 ### **ImgToolBox** - [https://imgtoolbox.net](https://imgtoolbox.net)
-A powerful image processing and manipulation toolkit designed to streamline your creative workflow. Transform, enhance, and optimize images with professional-grade tools.
+A powerful, completely free image processing and manipulation toolkit designed to streamline your creative workflow. Transform, enhance, and optimize images with professional-grade tools.
+
+**Key Features:**
+- 🆓 **100% Free** - No hidden costs or premium features
+- 🚀 **No Registration Required** - Start using immediately, no account needed
+- 🌍 **Multi-language Support** - Available in multiple languages for global users
+- ⭐ **Favorites System** - Save and organize your favorite tools
+- 🔒 **Privacy-First** - Server doesn't store any image data, ensuring complete privacy
+- ☁️ **Cloud Integration Coming Soon** - Google Drive and Dropbox upload support
+- 🛠️ **Growing Tool Collection** - More image tools you need, building your personalized image toolbox
+
+Perfect for designers, developers, and content creators who need powerful image tools without the hassle of registration or privacy concerns.
 
 ### **AppReviews** - [https://github.com/corgier/appReviews](https://github.com/corgier/appReviews)
 A comprehensive Python tool for analyzing Google Play Store app reviews. Features automated review collection, sentiment analysis, topic modeling using BERTopic, and detailed demographic insights. Perfect for developers and product managers looking to understand user feedback and improve app performance.
