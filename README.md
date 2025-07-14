@@ -31,6 +31,8 @@ I'm a passionate full-stack developer with expertise across multiple programming
 ### **ImgToolBox** - [https://imgtoolbox.net](https://imgtoolbox.net)
 A powerful, completely free image processing and manipulation toolkit designed to streamline your creative workflow. Transform, enhance, and optimize images with professional-grade tools.
 
+*See more on my Evernote about ImgToolBox: [https://share.evernote.com/note/d73359de-6c13-f430-cb2a-e446634b0efa](https://share.evernote.com/note/d73359de-6c13-f430-cb2a-e446634b0efa)*
+
 **Key Features:**
 - 🆓 **100% Free** - No hidden costs or premium features
 - 🚀 **No Registration Required** - Start using immediately, no account needed
