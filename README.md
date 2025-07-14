@@ -65,6 +65,7 @@ Streamline your app optimization process with data-driven insights and automated
 - **40Billion Profile**: [https://www.40billion.com/profile/1069235448](https://www.40billion.com/profile/1069235448)
 - **Linktree**: [https://linktr.ee/corgier](https://linktr.ee/corgier)
 - **Bento.me**: [https://bento.me/corgier](https://bento.me/corgier)
+- **Ramen.tools**: [https://ramen.tools/@corgier](https://ramen.tools/@corgier)
 
 ## 💡 What I'm Working On
 
