@@ -28,10 +28,10 @@ I'm a passionate full-stack developer with expertise across multiple programming
 
 ## 🎯 Current Projects
 
-### **ImgToolBox** - [https://imgtoolbox.net](https://imgtoolbox.net)
+### **ImgToolBox - Free Online Image Processing Tool** - [Visit ImgToolBox - Free Online Image Editor](https://imgtoolbox.net)
 A powerful, completely free image processing and manipulation toolkit designed to streamline your creative workflow. Transform, enhance, and optimize images with professional-grade tools.
 
-*See more on my Evernote about ImgToolBox: [https://share.evernote.com/note/d73359de-6c13-f430-cb2a-e446634b0efa](https://share.evernote.com/note/d73359de-6c13-f430-cb2a-e446634b0efa)*
+*Read detailed ImgToolBox features and updates on Evernote: [ImgToolBox - Complete Feature Guide and Development Updates](https://share.evernote.com/note/d73359de-6c13-f430-cb2a-e446634b0efa)*
 
 **Key Features:**
 - 🆓 **100% Free** - No hidden costs or premium features
@@ -44,7 +44,7 @@ A powerful, completely free image processing and manipulation toolkit designed t
 
 Perfect for designers, developers, and content creators who need powerful image tools without the hassle of registration or privacy concerns.
 
-### **AppReviews** - [https://github.com/corgier/appReviews](https://github.com/corgier/appReviews)
+### **AppReviews - Google Play Store Review Analysis Tool** - [View AppReviews Source Code on GitHub](https://github.com/corgier/appReviews)
 A comprehensive Python tool for analyzing Google Play Store app reviews. Features automated review collection, sentiment analysis, topic modeling using BERTopic, and detailed demographic insights. Perfect for developers and product managers looking to understand user feedback and improve app performance.
 
 **Key Features:**
@@ -58,14 +58,14 @@ Streamline your app optimization process with data-driven insights and automated
 
 ## 🌐 Connect With Me
 
-- **Email**: [qiaozhikk@gmail.com](mailto:qiaozhikk@gmail.com)
-- **Twitter/X**: [@NLFSWL](https://x.com/NLFSWL)
-- **Personal Bio**: [https://bio.site/qiaozhik](https://bio.site/qiaozhik)
-- **Creem.io Profile**: [https://www.creem.io/bip/qiaozhikk](https://www.creem.io/bip/qiaozhikk)
-- **40Billion Profile**: [https://www.40billion.com/profile/1069235448](https://www.40billion.com/profile/1069235448)
-- **Linktree**: [https://linktr.ee/corgier](https://linktr.ee/corgier)
-- **Bento.me**: [https://bento.me/corgier](https://bento.me/corgier)
-- **Ramen.tools**: [https://ramen.tools/@corgier](https://ramen.tools/@corgier)
+- **Email**: [Contact Corgier via Email](mailto:qiaozhikk@gmail.com)
+- **Twitter/X**: [Follow Corgier on Twitter/X @NLFSWL](https://x.com/NLFSWL)
+- **Personal Bio**: [Corgier's Professional Profile and Portfolio](https://bio.site/qiaozhik)
+- **Creem.io Profile**: [Corgier's Development Projects on Creem.io](https://www.creem.io/bip/qiaozhikk)
+- **40Billion Profile**: [Corgier's Business Network on 40Billion](https://www.40billion.com/profile/1069235448)
+- **Linktree**: [Corgier's Social Links and Projects Directory](https://linktr.ee/corgier)
+- **Bento.me**: [Corgier's Developer Portfolio on Bento.me](https://bento.me/corgier)
+- **Ramen.tools**: [Corgier's Developer Profile on Ramen.tools](https://ramen.tools/@corgier)
 
 ## 💡 What I'm Working On
 
